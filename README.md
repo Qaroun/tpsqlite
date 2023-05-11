@@ -1,16 +1,9 @@
 # tpsqlite
 
-A new Flutter project.
+voila les screenshots de tp ou je peux ajouter ou modifier ou supprimer o lire tout les films avec leur durée
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Qaroun/tpsqlite/assets/128074296/047df768-9e2e-4bc3-ad3b-c56a7736df53)
+![2](https://github.com/Qaroun/tpsqlite/assets/128074296/f5a224df-aa86-4479-a67a-f8b4787e9ed9)
+![3](https://github.com/Qaroun/tpsqlite/assets/128074296/31ff22b7-d377-436d-a57d-a502fc527e9a)
+![4](https://github.com/Qaroun/tpsqlite/assets/128074296/eb6e5607-b53c-4f1c-9d25-6ff076b0001c)
